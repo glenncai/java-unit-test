@@ -17,6 +17,8 @@ For Maven projects, add the following dependency to your pom.xml file:
 Or you can find the latest version of
 JUnit [here](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api).
 
+<br />
+
 ## Generate Code Coverage Report Using Surefire And Jacoco
 
 ```xml

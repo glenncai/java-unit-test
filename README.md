@@ -1,6 +1,6 @@
 <h1 align="center">Java Unit Testing with JUnit</h1>
 
-## Adding JUnit to your project
+## Adding JUnit to Your Project
 
 For Maven projects, add the following dependency to your pom.xml file:
 
@@ -19,7 +19,7 @@ JUnit [here](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-
 
 <br />
 
-## Generate Code Coverage Report Using Surefire And Jacoco
+## Generate Code Coverage Report Using Surefire and Jacoco
 
 ```xml
 
